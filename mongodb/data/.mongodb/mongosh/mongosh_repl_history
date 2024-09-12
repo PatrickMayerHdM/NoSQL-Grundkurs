@@ -1,0 +1,7 @@
+db.personen.find()
+db.personen.find(
+sda
+ db.personen.find(
+show collections
+db.personen.insertOne({name: 'Patrick Mayer'})
+db
