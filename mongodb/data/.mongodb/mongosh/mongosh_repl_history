@@ -5,3 +5,6 @@ sda
 show collections
 db.personen.insertOne({name: 'Patrick Mayer'})
 db
+d
+db
+show databases
